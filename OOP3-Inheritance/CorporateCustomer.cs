@@ -12,3 +12,4 @@ namespace OOP3_Inheritance
 }
 //A corporate customer is also a customer
 //features for only a corporate customer
+//legal entity

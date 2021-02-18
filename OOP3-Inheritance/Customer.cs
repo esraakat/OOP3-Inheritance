@@ -10,4 +10,4 @@ namespace OOP3_Inheritance
         public string CustomerNumber { get; set; }
     }
 }
-//Customer class can keep refernce numbers of 2 derived classes
+//Customer class(base class) can keep reference numbers of 2 derived classes***
